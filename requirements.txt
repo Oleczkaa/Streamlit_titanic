@@ -1,6 +1,6 @@
 streamlit
 ipandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 joblib
